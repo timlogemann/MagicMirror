@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77 78" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <ellipse id="a" cx="17.43162" cy="17.2" rx="17.22472" ry="17.2"/>
+    <path id="d" d="M44.7737 15.213h13.01307C66.1888 15.213 73 22.02222 73 30.426c0 8.4019-6.81263 15.21298-15.21323 15.21298h-35.7043c-1.37616 0-2.70965-.18267-3.97752-.5251C7.75162 42.87545 0 33.74395 0 22.81948 0 10.21664 10.31645 0 23.04243 0 33.07525 0 41.61046 6.34996 44.7737 15.213z"/>
+    <filter id="c" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" in="shadowBlurOuter1"/>
+    </filter>
+    <path id="f" d="M31.5609 23l.0934 20.26387H44L23.3021 76.00584v-20.2311H11z"/>
+    <filter id="e" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" in="shadowBlurOuter1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(31.384)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <ellipse cx="17.43162" cy="17.2" fill="#FDDA44" mask="url(#b)" rx="17.22472" ry="17.2"/>
+    </g>
+    <g transform="translate(2 4.44)">
+      <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+      <use fill="#EFEFEF" xlink:href="#d"/>
+    </g>
+    <g transform="translate(2)">
+      <use fill="#000" filter="url(#e)" xlink:href="#f"/>
+      <use fill="#FFAF49" xlink:href="#f"/>
+    </g>
+  </g>
+</svg>
+
+<!--
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="77px" height="78px" viewBox="0 0 77 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thunderstorms</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="17.4316226" cy="17.2" rx="17.2247191" ry="17.2"></ellipse>
+        <path d="M44.7737009,15.2129926 L57.7867689,15.2129926 C66.1888044,15.2129926 73,22.022234 73,30.4259852 C73,38.827889 66.1873734,45.6389778 57.7867689,45.6389778 L22.082474,45.6389778 C20.7063075,45.6389778 19.3728185,45.4563059 18.1049453,45.1138756 C7.75162199,42.8754475 0,33.7439539 0,22.8194889 C0,10.2166332 10.3164471,0 23.0424295,0 C33.0752479,0 41.6104637,6.34996112 44.7737009,15.2129926 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="31.5608868 23 31.6543092 43.2638684 44 43.2638684 23.3020999 76.0058351 23.3020999 55.7747302 11 55.7747302"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-440.000000, -415.000000)">
+            <g id="thunderstorms" transform="translate(442.000000, 415.000000)">
+                <g id="Group" transform="translate(29.384332, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Oval-1-Copy"></g>
+                    <ellipse id="Oval-1-Copy" fill="#FDDA44" mask="url(#mask-2)" cx="17.4316226" cy="17.2" rx="17.2247191" ry="17.2"></ellipse>
+                </g>
+                <g id="cloudy-copy" transform="translate(0.000000, 4.438710)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#EFEFEF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+                <g id="Path-22">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFAF49" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+-->

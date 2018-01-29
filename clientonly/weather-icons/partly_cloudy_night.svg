@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 63" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M57.90527 48.02608C52.293 56.56946 42.55517 62.22024 31.4822 62.22024 14.09505 62.22024 0 48.28757 0 31.10074 0 14.27883 13.5029.57435 30.3793 0c-3.20028 4.87168-5.0591 10.68393-5.0591 16.92533 0 17.18682 14.09505 31.1195 31.4822 31.1195.36913 0 .7368-.0063 1.10287-.01875z"/>
+    <linearGradient id="c" x1="50%" x2="50%" y1="87.30538%" y2="0%">
+      <stop stop-opacity="0" offset="0%"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <path id="e" d="M36.77056 12.39896h8.04572c6.85028 0 12.40354 5.5497 12.40354 12.39896 0 6.84776-5.54428 12.39897-12.40354 12.39897H18.04493c-1.21558 0-2.3903-.17476-3.50042-.5005C6.20473 34.75447 0 27.3886 0 18.59843 0 8.3268 8.47242 0 18.92368 0c8.2395 0 15.24906 5.17537 17.84688 12.39896z"/>
+    <filter id="d" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" in="shadowBlurOuter1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4.737 .473)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <path fill="#C8DBFC" d="M57.90527 48.02608C52.293 56.56946 42.55517 62.22024 31.4822 62.22024 14.09505 62.22024 0 48.28757 0 31.10074 0 14.27883 13.5029.57435 30.3793 0c-3.20028 4.87168-5.0591 10.68393-5.0591 16.92533 0 17.18682 14.09505 31.1195 31.4822 31.1195.36913 0 .7368-.0063 1.10287-.01875z" mask="url(#b)"/>
+      <path fill="url(#c)" fill-opacity=".4" d="M11.35025 37.0881H54.8918l-1.5777 39.9968H11.35024" style="mix-blend-mode:overlay" mask="url(#b)" transform="rotate(-45 33.12 57.086)"/>
+    </g>
+    <g transform="translate(2 18.937)">
+      <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+      <use fill="#FFF" xlink:href="#e"/>
+    </g>
+  </g>
+</svg>
+
+<!--
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mostly_cloudy_night</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M57.9052681,48.0260796 C52.2929852,56.5694637 42.5551847,62.2202447 31.4821911,62.2202447 C14.0950571,62.2202447 3.55271368e-15,48.2875738 3.55271368e-15,31.1007532 C3.55271368e-15,14.278825 13.5029077,0.574335921 30.3793104,-1.41827348e-12 C27.1790248,4.87168413 25.3201964,10.6839298 25.3201964,16.9253264 C25.3201964,34.112147 39.4152534,48.044818 56.8023874,48.044818 C57.1715327,48.044818 57.539194,48.0385378 57.9052681,48.0260796 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="87.3053765%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M36.7705622,12.3989618 L44.8162805,12.3989618 C51.666564,12.3989618 57.219816,17.9486605 57.219816,24.7979236 C57.219816,31.6456811 51.6755398,37.1968854 44.8162805,37.1968854 L18.0449259,37.1968854 C16.8293523,37.1968854 15.6546197,37.0221364 14.5445097,36.6963859 C6.20471632,34.7544844 0,27.3886048 0,18.5984427 C0,8.32680643 8.47241911,0 18.9236777,0 C27.1631658,0 34.1727424,5.17537394 36.7705622,12.3989618 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-27.000000, -298.000000)">
+            <g id="mostly_cloudy_night" transform="translate(29.000000, 298.000000)">
+                <g id="Moon" transform="translate(2.736758, 0.473382)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Combined-Shape"></g>
+                    <path d="M57.9052681,48.0260796 C52.2929852,56.5694637 42.5551847,62.2202447 31.4821911,62.2202447 C14.0950571,62.2202447 3.55271368e-15,48.2875738 3.55271368e-15,31.1007532 C3.55271368e-15,14.278825 13.5029077,0.574335921 30.3793104,-1.41827348e-12 C27.1790248,4.87168413 25.3201964,10.6839298 25.3201964,16.9253264 C25.3201964,34.112147 39.4152534,48.044818 56.8023874,48.044818 C57.1715327,48.044818 57.539194,48.0385378 57.9052681,48.0260796 Z" id="Combined-Shape" fill="#C8DBFC" mask="url(#mask-2)"></path>
+                    <polygon id="Rectangle-10" fill-opacity="0.4" fill="url(#linearGradient-3)" style="mix-blend-mode: overlay;" mask="url(#mask-2)" transform="translate(33.121023, 57.086495) rotate(-45.000000) translate(-33.121023, -57.086495) " points="11.3502492 37.088101 54.8917964 37.088101 53.314087 77.0848888 11.3502492 77.0848888"></polygon>
+                </g>
+                <g id="cloudy-copy" transform="translate(0.000000, 18.936596)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+-->

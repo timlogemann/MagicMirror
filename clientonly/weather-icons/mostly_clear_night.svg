@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 63" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M57.8782 48.62795C52.26856 57.2784 42.5353 63 31.4675 63 14.08848 63 0 48.89272 0 31.4905 0 14.45778 13.4966.58154 30.36512 0c-3.1988 4.93274-5.05675 10.81782-5.05675 17.13744 0 17.4022 14.08847 31.50948 31.46748 31.50948.36897 0 .73646-.00635 1.10236-.01897z"/>
+    <linearGradient id="c" x1="50%" x2="50%" y1="87.30538%" y2="0%">
+      <stop stop-opacity="0" offset="0%"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <path id="e" d="M17.93915 6.16304H21.76c3.3997 0 6.15567 2.76622 6.15567 6.16305 0 3.40374-2.7649 6.16303-6.15566 6.16303H8.9079c-.48566 0-.9582-.05645-1.41145-.16314C3.2274 17.51276 0 13.75606 0 9.24456 0 4.13893 4.13342 0 9.23224 0c4.01978 0 7.43952 2.57248 8.7069 6.16304z"/>
+    <filter id="d" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" in="shadowBlurOuter1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4.052)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <path fill="#C8DBFC" d="M57.8782 48.62795C52.26856 57.2784 42.5353 63 31.4675 63 14.08848 63 0 48.89272 0 31.4905 0 14.45778 13.4966.58154 30.36512 0c-3.1988 4.93274-5.05675 10.81782-5.05675 17.13744 0 17.4022 14.08847 31.50948 31.46748 31.50948.36897 0 .73646-.00635 1.10236-.01897z" mask="url(#b)"/>
+      <path fill="url(#c)" fill-opacity=".4" d="M17.82202 46.43624h16.22732l-.588 25.11033H17.82203" style="mix-blend-mode:overlay" mask="url(#b)" transform="rotate(-45 25.936 58.99)"/>
+    </g>
+    <g transform="translate(2.274 37.458)">
+      <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+      <use fill="#FFF" xlink:href="#e"/>
+    </g>
+  </g>
+</svg>
+<!--
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="62px" height="63px" viewBox="0 0 62 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mostly_clear</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M57.8782136,48.627951 C52.2685529,57.2784024 42.535302,63 31.467482,63 C14.0884716,63 0,48.8927223 0,31.4905134 C0,14.4577698 13.4965989,0.581533602 30.3651166,-1.41477702e-12 C27.1663262,4.93273695 25.3083663,10.8178228 25.3083663,17.1374376 C25.3083663,34.5396466 39.3968378,48.6469242 56.7758482,48.6469242 C57.144821,48.6469242 57.5123106,48.6405654 57.8782136,48.627951 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="87.3053765%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17.9391509,6.16304348 L21.7600054,6.16304348 C25.1596856,6.16304348 27.9156709,8.92925799 27.9156709,12.326087 C27.9156709,15.7298419 25.1507634,18.4891304 21.7600054,18.4891304 L8.90791468,18.4891304 C8.42223758,18.4891304 7.94969757,18.4326751 7.49645325,18.325991 C3.22740397,17.5127734 0,13.7560727 0,9.24456522 C0,4.13893283 4.1334153,0 9.23224148,0 C13.2520174,0 16.6717598,2.57247785 17.9391509,6.16304348 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-138.000000, -190.000000)">
+            <g id="mostly_clear" transform="translate(140.000000, 190.000000)">
+                <g id="Moon" transform="translate(2.051609, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Combined-Shape"></g>
+                    <path d="M57.8782136,48.627951 C52.2685529,57.2784024 42.535302,63 31.467482,63 C14.0884716,63 0,48.8927223 0,31.4905134 C0,14.4577698 13.4965989,0.581533602 30.3651166,-1.41971134e-12 C27.1663262,4.93273695 25.3083663,10.8178228 25.3083663,17.1374376 C25.3083663,34.5396466 39.3968378,48.6469242 56.7758482,48.6469242 C57.144821,48.6469242 57.5123106,48.6405654 57.8782136,48.627951 Z" id="Combined-Shape" fill="#C8DBFC" mask="url(#mask-2)"></path>
+                    <polygon id="Rectangle-10" fill-opacity="0.4" fill="url(#linearGradient-3)" style="mix-blend-mode: overlay;" mask="url(#mask-2)" transform="translate(25.935683, 58.991406) rotate(-45.000000) translate(-25.935683, -58.991406) " points="17.8220214 46.4362429 34.0493447 46.4362429 33.4613546 71.546569 17.8220214 71.546569"></polygon>
+                </g>
+                <g id="cloudy-copy" transform="translate(0.273565, 37.457607)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+-->
